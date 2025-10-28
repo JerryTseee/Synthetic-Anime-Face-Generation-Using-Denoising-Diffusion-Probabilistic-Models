@@ -7,7 +7,7 @@ We present a diffusion-based approach for generating anime-style faces using Den
 <img width="1070" height="223" alt="image" src="https://github.com/user-attachments/assets/75870b9f-3384-449e-b0ca-751dfb54a35e" />
 
 # Steps
-- download the anime face dataset on the Kaggle and put it under the dataset folder
+- download the anime face dataset on the Kaggle and put it under the dataset/images folder
 - create a virtual environment
 - pip install -r requirement.txt
 - run the train.py (it will output 4 images after each epoch for your reference, and save the current model under model folder)
