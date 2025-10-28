@@ -1,0 +1,7 @@
+diffusers
+accelerate
+torch
+torchvision
+transformers
+numpy
+pandas

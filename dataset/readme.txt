@@ -1,0 +1,1 @@
+download "Anime Face Dataset" on Kaggle, and put them under this folder
