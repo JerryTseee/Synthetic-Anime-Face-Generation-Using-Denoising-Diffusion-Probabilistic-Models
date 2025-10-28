@@ -10,4 +10,5 @@ We present a diffusion-based approach for generating anime-style faces using Den
 - create a virtual environment
 - pip install -r requirement.txt
 - run the train.py (it will output 4 images after each epoch for your reference, and save the current model under model folder)
+- training might take a whole day
 - choose the best model you would like to use, and run the generate.py
