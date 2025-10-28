@@ -1,5 +1,5 @@
 # Synthetic-Anime-Face-Generation-Using-Denoising-Diffusion-Probabilistic-Models
-A Diffusion Approach for Cartoon Face Generation
+A Diffusion Approach for Cartoon Face Generation (For HKU ELEC4542 Project)
 <img width="676" height="679" alt="image" src="https://github.com/user-attachments/assets/037804b5-2354-4c9a-9d8b-42fe531783fb" />
 
 # Abstract
