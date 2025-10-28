@@ -4,6 +4,7 @@ A Diffusion Approach for Cartoon Face Generation
 
 # Abstract
 We present a diffusion-based approach for generating anime-style faces using Denoising Diffusion Probabilistic Models (DDPMs). Our method trains a U-Net architecture on an animation face dataset to iteratively transform random noise into coherent anime portraits. The model produces diverse facial features, hairstyles, and expressions while maintaining the distinctive aesthetic of anime art. Experimental results demonstrate stable training and high-quality generation of 100 unique anime faces.
+<img width="1070" height="223" alt="image" src="https://github.com/user-attachments/assets/75870b9f-3384-449e-b0ca-751dfb54a35e" />
 
 # Steps
 - download the anime face dataset on the Kaggle and put it under the dataset folder
